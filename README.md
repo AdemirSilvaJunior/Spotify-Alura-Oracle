@@ -7,7 +7,7 @@ Este projeto é uma cópia da página inicial do Spotify, desenvolvido como um e
 ## 🛠️ Instalação
 Para visualizar este projeto localmente, siga estas etapas:
 
-git clone https://github.com/AdemirSilvaJunior/Spotify-Alura-Oracle.git
+git clone https://github.com/AdemirSilvaJunior/Spotify-Alura-Oracle.git <br>
 cd Spotify-Alura-Oracle
 # Abra o arquivo index.html em seu navegador
 
