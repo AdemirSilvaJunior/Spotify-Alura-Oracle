@@ -28,8 +28,9 @@ Este projeto é desenvolvido como parte de um trabalho acadêmico e não possui 
 ✨ Destaques
 Replica a interface visual do Spotify
 Desenvolvido usando HTML e CSS
+
  🧑‍💻 Autor
-[Seu Nome]
+Ademir Silva Junior
 
 📬 Contato
 <h3 align="left">Connect with me:</h3>
