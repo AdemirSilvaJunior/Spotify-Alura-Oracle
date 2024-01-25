@@ -43,4 +43,4 @@ Ademir Silva Junior
 
 📫 **ademir_silva_junior@hotmail.com**
 
-  Desenvolvido usando HTML e CSS
+  Desenvolvido usando HTML, CSS e JavaScript.
