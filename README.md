@@ -20,7 +20,8 @@ Basta abrir o arquivo index.html em seu navegador para visualizar a cópia da p�
 ## 🤝 Contribuição<br>
 Sinta-se à vontade para contribuir, abrindo problemas ou enviando solicitações de pull.
 
-Agradecimento especial a @lucas_stradiotto, que me ajudou muito a tornar este projeto possível
+Agradecimento especial a @lucas_stradiotto, que me ajudou muito a tornar este projeto possível.
+Agradecimento a @Pedro-Rbeiro, pela colaboração no projeto com solicitações de pull.
 
 ## 📋 Licença<br>
 Este projeto é desenvolvido como parte de um trabalho acadêmico e não possui uma licença específica. Todos os direitos reservados para fins educacionais.
